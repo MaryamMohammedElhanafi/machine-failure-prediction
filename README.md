@@ -1,0 +1,1 @@
+analyze and predict the failure in the machine failure dataset and create user friendly streamlit app which take the factors affect the machine failure from the user and predict if there is afailure or not.
